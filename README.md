@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm currently working as a <strong>Fullstack Web Developer</strong>, always striving for more challenges and improving myself!
+I'm a <strong>Fullstack Web Developer</strong>, focused on Python and ReactJS, always striving for more challenges and improving myself!
 - 🔭 I’m currently looking for work
 - :eyeglasses: I work with the following programming languages: Python, JavaScript (and TypeScript), HTML, CSS
 - :neckbeard: I'm familiar with the following frameworks: Django, Flask, ReactJS
